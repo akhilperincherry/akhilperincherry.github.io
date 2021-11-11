@@ -1,3 +1,7 @@
+---
+title: This will be used as the title-tag of the page head
+---
+
 * A Perincherry, C Cruise "Domain Generation via Learned Partial Domain Translations" US Patent App. 16/777017 - Generative modeling to generate novel domain data.
 
 * A Perincherry, K Singh, N Nagraj Rao "Vehicle Intersection Operation" US Patent App. 20,210/001,844 - CNN+LSTM based model to predict vehicle right-of-way at intersections.

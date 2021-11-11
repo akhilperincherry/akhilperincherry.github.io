@@ -1,1 +1,11 @@
+title: Akhil Perincherry # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  I am a research engineer at Ford automated driving where I work on computer vision and machine learning for perception features in the context of automated driving.
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/espanade/">LinkedIn</a> 
+  
 theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here

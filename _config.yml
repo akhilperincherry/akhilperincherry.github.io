@@ -1,11 +1,12 @@
 title: Akhil Perincherry # your name (or website title) here
 logo: "/images/profilePicture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a research engineer at Ford automated driving where I work on computer vision and machine learning for perception features in the context of automated driving.
+  I am an ML research engineer at Ford Motor Company automated driving where I work on computer vision and machine learning for perception features in the context of automated driving. Most of my work is on camera images and LiDAR point clouds.
   <br><br>
-  My research interests are in domain adaptation, generative modeling, multi-sensory supervision, self-supervised learning and in general solving problems that stem from lack of annotated or domain-specific data. 
+  I completed my masters from University of Florida in 2016 specializing in computer vision and machine learning, and have been at Ford since then.
   <br><br>
-  <a href="https://www.linkedin.com/in/espanade/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/espanade/">LinkedIn</a>
+  <br> 
   <a href="https://scholar.google.com/citations?user=wPNd0xkAAAAJ&hl=en">Google Scholar</a> 
   
 theme: jekyll-theme-minimal

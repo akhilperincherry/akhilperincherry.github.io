@@ -18,28 +18,32 @@ My research interests are in domain adaptation, generative modeling, multi-senso
 
 * N Jaipuria, G Sholingar, V Murali, R Bhasin, A Perincherry "[Vehicle Image Generation](https://patentimages.storage.googleapis.com/4f/2f/9b/444567b4ea8a58/US20210004608A1.pdf)" US Patent App. 20,210/004,608 - Generative modeling to improve driving safety features via domain adaptation.
 
+---
+
 ### Publications
 
 * Adarsh Appaiah (equal contribution), Akhil Perincherry (equal contribution), Ajinkya Sanjeev Keskar and Vijaya Krishna "[Spectrum Sensing in Cognitive Radio Based
 on Compressive Measurements](https://ieeexplore.ieee.org/abstract/document/6749450)". International conference on Emerging trends in Communication, Control, Signal Processing and
 Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 
-### 
+---
 
-[Project 1 Title](/sample_page)
+### Research Assistant work
+
+[Rat whisker tracking - Univ. of Florida](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Table-top touch interface using Kinect - Indian Institute of Science](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Compressive sensing as a solution to Cognitive Radio](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Other Projects
 
 - [Project 1 Title](http://example.com/)
 

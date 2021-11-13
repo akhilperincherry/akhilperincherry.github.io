@@ -34,8 +34,12 @@ Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Table-top touch interface using Kinect - Indian Institute of Science](/touchHyperlink.md)
+<img src="images/cvai_poster.png?raw=true"/>
+
+---
 [Table-top touch interface using Kinect - Indian Institute of Science](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cvai_poster.png?raw=true"/>
 
 ---
 [Compressive sensing as a solution to Cognitive Radio](http://example.com/)

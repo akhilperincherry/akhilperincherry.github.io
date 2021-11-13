@@ -35,7 +35,7 @@ Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 
 ---
 [Table-top touch interface using Kinect - Indian Institute of Science](/touchHyperlink.md)
-<img src="images/cvai_poster.png?raw=true"/>
+<img src="images/cvai_video1.gif?raw=true"/>
 
 ---
 [Table-top touch interface using Kinect - Indian Institute of Science](/pdf/sample_presentation.pdf)

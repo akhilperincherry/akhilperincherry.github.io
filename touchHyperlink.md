@@ -2,6 +2,8 @@
 
 My primary work was to develop a table-top touch interface using a projector-camera setup. The aim of this project is to use projector camera systems for touch based interactions. In one working pipeline, a text document is projected onto a flat table-top and the user can interact with the document using his/her fingers. The user can touch an area of the table corresponding to a projected word, and that word is converted to audio or the google search corresponding to the work is opened. In another working, Google maps page is projected onto the table, and the user can simulate mouse action using fingers to zoom in/out, move etc.
 
+<img src="images/cvai_poster.png?raw=true"/>
+
 ## Motivation
 
 Such systems are cheaper than existing systems and can be scaled at with little rise in cost. They can also be used on curved and nonlinear surfaces without changing the hardware
@@ -21,3 +23,5 @@ The projector in the projector camera pair acts as the display and the camera is
 
 A couple of unforeseen problems I faced during this work was the weight of the projector was causing the stand holding the projector-camera setup to bend which would mess up the manual depth calibration. The air pockets under the sheet on the table serving as a touch pad also led to change in depth values from what was set-up initially. To alleviate this, depth calibration was done automatically each time the setup is kick-started by finding a flat plane and estimating it's depth, and then using this as the depth of the touch pad rather than relying on manually set values.
 
+<img src="images/cvai_video1.gif?raw=true"/>
+<img src="images/cvai_video2.gif?raw=true"/>

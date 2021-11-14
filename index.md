@@ -36,8 +36,9 @@ Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 <img src="images/Whisker_1.PNG?raw=true"/>
 
 ---
-[Table-top touch interface using Kinect - Indian Institute of Science (2014)](/touchHyperlink.md)
-<img src="images/cvai_video1.gif?raw=true"/>
+[Table-top touch interface using Kinect - Indian Institute of Science (2014)](/touchHyperlink.md)  
+
+ <img src="images/cvai_video1.gif?raw=true"/>
 
 ---
 [Compressive sensing as a solution to Cognitive Radio (2013)](/compressiveSensing.md)
@@ -49,7 +50,7 @@ Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 
 - [Adaptive Speaker Recognition using Online Learning](/pdf/AdaptiveSpeakerRecognition_OnlineLearning_AkhilPerincherry.pdf)
 
-A novel technique was proposed to perform speaker recognition using adaptive algorithms such as Recursive Least Squares (RLS), Normalized Least Mean Squares (NLMS). The filter coefficients were seen to model the voice characteristics. The developed model was compared with the state of the art MFCC-VQ technique.
+   A novel technique was proposed to perform speaker recognition using adaptive algorithms such as Recursive Least Squares (RLS), Normalized Least Mean Squares (NLMS). The filter coefficients were seen to model the voice characteristics. The developed model was compared with the state of the art MFCC-VQ technique.
 
 ---
 
@@ -61,20 +62,20 @@ Motor imagery tasks are tasks where a person imagines performing a task and the 
 
 - [Manatee Call Detection Using Recursive Least Squares (2015)](/pdf/Manatee_Sound_Detection_AkhilPerincherry.pdf)
 
-The problem of detecting Manatee calls in a signal plus noise situation is studied. Trained models were obtained for Manatee calls and noise, and an ensemble of models were applied and compared.
+   The problem of detecting Manatee calls in a signal plus noise situation is studied. Trained models were obtained for Manatee calls and noise, and an ensemble of models were applied and compared.
 
 ---
 
 - [Majorized Multi-class Kernel SVM](/pdf/Majorized_AkhilPerincherry.pdf)
 
-A Majorized Multi-class kernel SVM was derived and designed from scratch, and compared with other ML algorithms such as Random Forests, Logistic Regression, Deep Neural Networks, Decision Trees and libSVM implementation.
+   A Majorized Multi-class kernel SVM was derived and designed from scratch, and compared with other ML algorithms such as Random Forests, Logistic Regression, Deep Neural Networks, Decision Trees and libSVM implementation.
 
 ---
 
 ## Outreach
 
 - Cluster coordinator for South-East Bangalore, Youth For Seva (2013-2014) - 
-I was involved in sapling planting and providing kids with computer training.
+Involved in sapling planting and providing kids with computer training.
 
 - MentorUF, University of Florida (2016) -
 Mentored a middle-school student for a year.

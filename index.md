@@ -30,8 +30,8 @@ Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 
 ### Research Assistant work
 
-[Rat whisker tracking - Univ. of Florida (2016)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Rat whisker tracking - Univ. of Florida (2016)](/whiskerTracking.md)
+<img src="images/Whisker_1.PNG?raw=true"/>
 
 ---
 [Table-top touch interface using Kinect - Indian Institute of Science (2014)](/touchHyperlink.md)

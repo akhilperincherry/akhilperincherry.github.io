@@ -45,12 +45,28 @@ Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 
 ### Other Projects
 
-- [Project 1 Title](http://example.com/)
+- [Adaptive Speaker Recognition using Online Learning](/pdf/AdaptiveSpeakerRecognition_OnlineLearning_AkhilPerincherry.pdf)
+
+A novel technique was proposed to perform speaker recognition using adaptive algorithms such as Recursive Least Squares (RLS), Normalized Least Mean Squares (NLMS). The filter coefficients were seen to model the voice characteristics. The developed model was compared with the state of the art MFCC-VQ technique.
 
 ---
 
-
-
+- [Motor Imagery Classification (2015)](https://github.com/akhilperincherry/MotorImageryClassification)
+<img src="images/MotorImagery.PNG?raw=true"/>
+Motor imagery tasks are tasks where a person imagines performing a task and the neural signals are recorded. The model classifies between left finger and tongue imagery movements using Common Spatial Pattern and Support Vector Machines from EEG recorded signals. The model developed recorded an accuracy of 92%, the highest that has been reported for the BCI 2000 dataset at the time.
 
 ---
+
+- [Manatee Call Detection Using Recursive Least Squares (2015)](/pdf/Manatee_Sound_Detection_AkhilPerincherry.pdf)
+
+The problem of detecting Manatee calls in a signal plus noise situation is studied. Trained models were obtained for Manatee calls and noise, and an ensemble of models were applied and compared.
+
+---
+
+- [Majorized Multi-class Kernel SVM](/pdf/Majorized_AkhilPerincherry.pdf)
+
+A Majorized Multi-class kernel SVM was derived and designed from scratch, and compared with other ML algorithms such as Random Forests, Logistic Regression, Deep Neural Networks, Decision Trees and libSVM implementation.
+
+---
+
 <p style="font-size:11px"></p>

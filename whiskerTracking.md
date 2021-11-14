@@ -5,7 +5,7 @@ The goal of this work was to track rat whisker states using visual data. Rats us
 ## Setup
 
 The rats were observed in a gap-crossing task consisting of two platforms, an IR illuminator and overhead camera. The gap in the box for the rat to cross is variable and can be adjusted. All whiskers of the rat except one was trimmed and head fixed rats were used for experimentation. The setup of the platforms and the camera is similar to the image below which was taken from [this](https://pubmed.ncbi.nlm.nih.gov/18463190/) paper. Aligning the platform edges to the side of the images in the camera setup reduces the difficulty of the problem resulting in simple image processing solutions.
-<img src="images/GC_setup.PNG?raw=true"/>
+<img src="images/GC_setup.png?raw=true"/>
 
 ## Solution
 

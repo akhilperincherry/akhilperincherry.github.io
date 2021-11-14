@@ -30,20 +30,16 @@ Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 
 ### Research Assistant work
 
-[Rat whisker tracking - Univ. of Florida](/sample_page)
+[Rat whisker tracking - Univ. of Florida (2016)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Table-top touch interface using Kinect - Indian Institute of Science](/touchHyperlink.md)
+[Table-top touch interface using Kinect - Indian Institute of Science (2014)](/touchHyperlink.md)
 <img src="images/cvai_video1.gif?raw=true"/>
 
 ---
-[Table-top touch interface using Kinect - Indian Institute of Science](/pdf/sample_presentation.pdf)
-<img src="images/cvai_poster.png?raw=true"/>
-
----
-[Compressive sensing as a solution to Cognitive Radio](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Compressive sensing as a solution to Cognitive Radio(2013)](http://example.com/)
+<img src="images/CS_3.PNG?raw=true"/>
 
 ---
 

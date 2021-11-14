@@ -1,6 +1,6 @@
 ## Research
 
-My research interests are in domain adaptation, generative modeling, multi-sensory supervision, self-supervised learning and in general solving problems that stem from lack of annotated or domain-specific data.
+My research interests are in domain adaptation, generative modeling, multi-sensory supervision, self-supervised learning and in general, solving problems that stem from lack of annotated or domain-specific data.
 
 In my current job, I primarily work on object detection, tracking and segmentation using camera data and point cloud data.
 
@@ -73,10 +73,10 @@ A Majorized Multi-class kernel SVM was derived and designed from scratch, and co
 
 ## Outreach
 
-- Cluster coordinator for South-East Bangalore, Youth For Seva (2013-2014)
+- Cluster coordinator for South-East Bangalore, Youth For Seva (2013-2014) - 
 I was involved in sapling planting and providing kids with computer training.
 
-- MentorUF, University of Florida (2016)
+- MentorUF, University of Florida (2016) -
 Mentored a middle-school student for a year.
 
 - IEEE Eta Kappa Nu, University of Florida (2016)

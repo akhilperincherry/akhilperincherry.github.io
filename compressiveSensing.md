@@ -2,7 +2,8 @@
 
 The goal of the work was to solve the problem of Cognitive Radio (CR) using a low computation solution. Spectrum sensing is one of the most important problems in CR which is the process of identifying occupancy in the spectrum space i.e. the task of identifying if a frequency channel is being used. The idea of CR is based on the observation that a lot of the times, most of the licensed spectrum is not being used by the licensed users. In such cases, secondary (unlicensed) users detect the spectrum holes (unoccupied spectrum) and utilize the spectrum leading to an efficient spectrum utilization.
 
-[Report](/pdf/CSprojectfinalreport.pdf)
+[Report](/pdf/CSprojectfinalreport.pdf)  
+
 [Publication](https://ieeexplore.ieee.org/abstract/document/6749450)
 
 ## Motivation

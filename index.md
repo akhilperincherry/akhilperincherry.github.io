@@ -38,7 +38,7 @@ Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 <img src="images/cvai_video1.gif?raw=true"/>
 
 ---
-[Compressive sensing as a solution to Cognitive Radio(2013)](http://example.com/)
+[Compressive sensing as a solution to Cognitive Radio(2013)](/compressiveSensing.md)
 <img src="images/CS_3.PNG?raw=true"/>
 
 ---

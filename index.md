@@ -1,6 +1,8 @@
 ## Research
 
-My research interests are in domain adaptation, generative modeling, multi-sensory supervision, self-supervised learning and in general solving problems that stem from lack of annotated or domain-specific data. 
+My research interests are in domain adaptation, generative modeling, multi-sensory supervision, self-supervised learning and in general solving problems that stem from lack of annotated or domain-specific data.
+
+In my current job, I primarily work on object detection, tracking and segmentation using camera data and point cloud data.
 
 ---
 
@@ -28,7 +30,7 @@ Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 
 ---
 
-### Research Assistant work
+### Past Research
 
 [Rat whisker tracking - Univ. of Florida (2016)](/whiskerTracking.md)
 <img src="images/Whisker_1.PNG?raw=true"/>
@@ -68,5 +70,15 @@ The problem of detecting Manatee calls in a signal plus noise situation is studi
 A Majorized Multi-class kernel SVM was derived and designed from scratch, and compared with other ML algorithms such as Random Forests, Logistic Regression, Deep Neural Networks, Decision Trees and libSVM implementation.
 
 ---
+
+## Outreach
+
+- Cluster coordinator for South-East Bangalore, Youth For Seva (2013-2014)
+I was involved in sapling planting and providing kids with computer training.
+
+- MentorUF, University of Florida (2016)
+Mentored a middle-school student for a year.
+
+- IEEE Eta Kappa Nu, University of Florida (2016)
 
 <p style="font-size:11px"></p>

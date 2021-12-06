@@ -82,4 +82,8 @@ Mentored a middle-school student for a year.
 
 - IEEE Eta Kappa Nu, University of Florida (2016)
 
+## Teaching
+
+- Teaching Assistant for graduate course "Foundations of Digital Signal Processing" at University of Flordia during fall 2015.
+
 <p style="font-size:11px"></p>

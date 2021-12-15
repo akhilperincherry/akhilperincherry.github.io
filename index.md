@@ -1,8 +1,8 @@
 ## Research
 
-My research interests are in domain adaptation, generative modeling, multi-sensory supervision, self-supervised learning and in general, solving problems that stem from lack of annotated or domain-specific data.
+My research interests are in domain adaptation (via generative modeling, semi/self/un-supervised learning), multimodal learning and task-agnostic learning. In general, I am interested in solving problems that stem from a lack of annotated or domain-specific data and problems where testing data is distributionally different from training data.
 
-In my current job, I primarily work on object detection, tracking and segmentation using camera data and point cloud data.
+In my current job, I primarily work on object detection, tracking and segmentation using camera data and point cloud data. I graduated from the University of Florida in 2016. Before that, I worked at the Indian Institute of Science under [Prof. K R Ramakrishnan](https://iiscprofiles.irins.org/profile/3742) at the Computer Vision and Artificial Intelligence (CVAI) lab where I worked on touch-interface applications using a projector-camera based setup.
 
 ---
 

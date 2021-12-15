@@ -8,9 +8,9 @@ In my current job, I primarily work on object detection, tracking and segmentati
 
 ### Patents
 
-* A Perincherry, C Cruise "[Domain Generation via Learned Partial Domain Translations](https://patentimages.storage.googleapis.com/4c/dc/38/0864e86159bf31/US20210241030A1.pdf)" US Patent App. 16/777017 - Generative modeling to generate novel domain data.
+* A Perincherry, C Cruise "[Domain Generation via Learned Partial Domain Translations](https://patents.google.com/patent/DE102021101850A1/en)" US Patent App. 16/777017 - Generative modeling to generate novel domain data.
 
-* A Perincherry, K Singh, N Nagraj Rao "[Vehicle Intersection Operation](https://patentimages.storage.googleapis.com/00/8a/78/28372e1d078441/US20210001844A1.pdf)" US Patent App. 20,210/001,844 - CNN+LSTM based model to predict vehicle right-of-way at intersections.
+* A Perincherry, K Singh, N Nagraj Rao "[Vehicle Intersection Operation](https://patents.google.com/patent/US20210001844A1/en)" US Patent App. 20,210/001,844 - CNN+LSTM based model to predict vehicle right-of-way at intersections.
 
 * N Nagraj Rao, A Perincherry "Sensor Domain Adaptation" US Patent App. 17/330692 - Generative modeling to translate legacy sensor data domain to newer domain.
 
@@ -18,7 +18,7 @@ In my current job, I primarily work on object detection, tracking and segmentati
 
 * A Perincherry, I Patel, K Min "[RCCC to RGB Domain Translation with Deep Neural Networks](https://patents.google.com/patent/US11068749B1/en)" US Patent App. 16/799258 - Generative modeling to translate automotive sensor domain to common domains.
 
-* N Jaipuria, G Sholingar, V Murali, R Bhasin, A Perincherry "[Vehicle Image Generation](https://patentimages.storage.googleapis.com/4f/2f/9b/444567b4ea8a58/US20210004608A1.pdf)" US Patent App. 20,210/004,608 - Generative modeling to improve driving safety features via domain adaptation.
+* N Jaipuria, G Sholingar, V Murali, R Bhasin, A Perincherry "[Vehicle Image Generation](https://patents.google.com/patent/US11042758B2/en)" US Patent App. 20,210/004,608 - Generative modeling to improve driving safety features via domain adaptation.
 
 ---
 

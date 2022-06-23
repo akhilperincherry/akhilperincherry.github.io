@@ -2,6 +2,7 @@
 
 ### What
 - They investigate use of contrastive learning in OOD detection without needing data explicitly labeled as OOD. They introduce CLP score to quantify difficulty of OOD detection by capturing similarity of inlier and outlier datasets. Their method makes a distinction between near and far OOD classes and improves performance in near OOD classes.
+
 - Uses SimCLRv1 as the contrastive learning framework.
 
 ### Existing techniques
@@ -31,7 +32,8 @@
 - They avoid explicit inlier and outlier density modelling in the input space.
 - They don't require access to data from the outlier distribution during training or tuning.
 - They use Confusion Log Probability (CLP) as a metric to evaluate OOD detection methods, which measures the similarity of inlier / outlier dataset pairs.
-<img src="paperSummaries/contrastiveTrainingForOOD1.png?raw=true"/>
+
+<img src="paperSummaries/contrastiveTrainingForOOD1.PNG?raw=true"/>
 
 - Architecture is similar to SimCLR with an encoder network. It has two projection heads - one for mapping to class predictions and the other for mapping to a low dimensional embedding over which contrastive loss is defined.
 
@@ -45,7 +47,7 @@
 
 - Therefore, they perform density estimation class-wise, over the activations z at the penultimate layer. For each class c, an n-dimensional multivariate Gaussian is estimated with n being the dimension of z. For the OOD score s(x), the highest density is taken over all the class-conditional Gaussian components. A high score s(x) indicates that the representation of a test sample in the embedding space lies close to the typical set for one of the  classes. Conversely, a low score signifies that the test sample has a representation that is far from all training set examples and is therefore likely to represent an OOD example.
 
-<img src="paperSummaries/contrastiveTrainingForOOD2.png?raw=true"/>
+<img src="paperSummaries/contrastiveTrainingForOOD2.PNG?raw=true"/>
 
 ### CLP score
 - Need for CLP 
@@ -53,7 +55,7 @@
 
 - confusion log probability (CLP) is a measure of the difficulty of an OOD detection task. CLP is based on the probability with which a classifier confuses outliers with inliers, where the classifier has access to outlier samples during training.
 
-<img src="paperSummaries/contrastiveTrainingForOOD3.png?raw=true"/>
+<img src="paperSummaries/contrastiveTrainingForOOD3.PNG?raw=true"/>
 
 - A low CLP indicates that test samples are far OOD and a high CLP indicates that they are near OOD.  By using classifiers to estimate class confusions, they ground the measure in a notion of visual similarity rather than semantic or image space similarity.
 

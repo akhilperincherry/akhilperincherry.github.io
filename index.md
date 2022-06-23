@@ -74,7 +74,7 @@ Motor imagery tasks are tasks where a person imagines performing a task and the 
 
 ---
 
-- [Majorized Multi-class Kernel SVM](/pdf/Majorized_AkhilPerincherry.pdf)
+- Majorized Multi-class Kernel SVM
 
    A Majorized Multi-class kernel SVM was derived and designed from scratch, and compared with other ML algorithms such as Random Forests, Logistic Regression, Deep Neural Networks, Decision Trees and libSVM implementation.
 

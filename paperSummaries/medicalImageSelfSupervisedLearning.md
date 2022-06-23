@@ -2,7 +2,9 @@
 
 ### What
 - Objective is to learn from limited labeled data in a medical image analysis setting, that are robust to distribution shifts. They use SimCLR not SimCLRv2.
+
 - They study the effectiveness of self-supervised learning as a pre-training strategy in medical image classification. They perform comparison between supervised pre-training and self-supervised pre-training approaches.
+
 - Tasks
     - Dermatology condition classification
     - Multi-label chest x-ray classification
@@ -18,27 +20,37 @@
 
 	- Multi-Instance Contrastive Learning (MICLe) 
 		- strategy that helps adapt contrastive learning to multiple images of the underlying pathology per patient case. Such multi-instance data is often available in medical imaging datasets – e.g., frontal and lateral views of mammograms, retinal fundus images from each eye, etc.
+
 		- Given multiple images of a given patient case, they construct a positive pair for self-supervised contrastive learning by drawing two crops from two distinct images of the same patient case. These images are typically from different viewing angles and show different body parts with the same underlying pathology. This enables self-supervised learning algorithms to learn representations that are robust to changes of viewpoint, imaging conditions, and other factors in a direct way.
+
 		- MICLe does not require class label information.
 
 
 ### Method
-<img src="paperSummaries/medicalImageSelfSupervisedLearning.png?raw=true"/>
+
+<img src="paperSummaries/medicalImageSelfSupervisedLearning.PNG?raw=true"/>
+
 - Their approach comprises of three steps: 
     - Self-supervised pretraining on unlabeled ImageNet using SimCLR 
+
     - Additional self-supervised pretraining using unlabeled medical images. If multiple images of each medical condition are available, a novel Multi-Instance Contrastive Learning (MICLe) is used to construct more informative positive pairs based on different images.
+
     - Supervised fine-tuning on labeled medical images. Note that unlike step (1), steps (2) and (3) are task and dataset specific.
 
 - First, they perform self-supervised pretraining on unlabeled images using contrastive learning to learn visual representations.
+
 - For contrastive learning they use a combination of unlabeled ImageNet dataset and task specific medical images. Then, if multiple images of each medical condition are available the Multi-Instance Contrastive Learning (MICLe) is used for additional self-supervised pretraining. 
+
 - Finally, we perform supervised fine-tuning on labeled medical images. 
 
 - MICLe
     - It is common for medical images to have multiple images per condition typically from different viewpoints, lighting conditions, providing complementary information.
+
     - To get 2N representations in MICLe, they randomly sample a mini-batch of N bags of instances and define the contrastive prediction task on positive pairs retrieved from the bag of images instead of augmented views of the same image.
+
     - Each bag, X = {x1, x2, ..., xM} has images from a same patient (i.e., same pathology) captured from different views where M could vary for different bags. When there are two or more instances in a bag (M = |X| ≥ 2),  positive pairs are constructed by drawing two crops from two randomly selected images in the bag. In this case, the objective still takes the form of SimCLR, but images contributing to each positive pair are distinct.
 
-<img src="paperSummaries/medicalImageSelfSupervisedLearning2.png?raw=true"/>
+<img src="paperSummaries/medicalImageSelfSupervisedLearning2.PNG?raw=true"/>
 
 - Following SimCLR, two fully connected layers are used to map the output of ResNets to a 128-dimensional embedding, which is used for contrastive learning.
 
@@ -46,9 +58,12 @@
 
 - Augmentations
     - Dermatology - same augmentation as SimCLR.
+
     - Chest Xray
         - Unlike the original set of proposed augmentation in SimCLR, they do not use the Gaussian blur, because they deduce that it makes it impossible to distinguish local texture variations and other areas of interest thereby changing the underlying disease interpretation the X-ray image.
+
         - Augmentations that lead to the best performance on the validation set for this task are random cropping, random color jittering (strength = 0.5), rotation (upto 45 degrees) and horizontal flipping.
+        
     - Finetuning 
         - For data augmentation during fine-tuning, they used random color augmentation, crops with resize, blurring, rotation, and flips for the images in both tasks.
 

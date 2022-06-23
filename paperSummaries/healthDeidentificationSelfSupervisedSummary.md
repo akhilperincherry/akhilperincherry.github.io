@@ -2,7 +2,9 @@
 
 ### What
 - Aim is to bridge the domain gap in de-identification of health records using unlabeled data from the target domain via a self-training framework.
+
 - They use labeled data from source domain + unlabeled data from target domain.
+
 - F1 score is used as evaluation metric
 
 ### Prior Work
@@ -22,7 +24,7 @@
 
 - In the retraining phase, they continue to train the best performing model from the first phase, and apply a similar training strategy (cross-entropy loss, stochastic gradient descent, and data augmentation). The difference is that each mini-batch contains half a batch of true labeled data and half a batch of pseudo-labeled data. In addition, they retrain the model for a total of fifty epochs and use the current model to update the pseudo-labels for every 5 epochs. They tune the same 3 hyperparameters in the same validation cohort, and the best performing model is chosen for testing.
 
-<img src="paperSummaries/deidentificationSelfSupervised.png?raw=true"/>
+<img src="paperSummaries/deidentificationSelfSupervised.PNG?raw=true"/>
 
 ### Evaluation
 - Cross-domain experiments
@@ -32,5 +34,7 @@
 		
 ### Observations
 - self-training (after 20 epochs of retraining) helps to correct the whole entity when it contains at least 1 correct word. Specifically, among entities with at least 1 correct word, 37.8% are corrected by self-training, otherwise only 11.8% are corrected. Intuitively, if an entity has a correct word, the self-training framework can make the whole entity more compatible with the target domain, which finally corrects the whole entity.
+
 - For the cases in which the predictions are very wrong, the framework does not significantly improve the performance.
+
 - It was observed that a few additional labeled samples significantly boosted domain adaptation performance.

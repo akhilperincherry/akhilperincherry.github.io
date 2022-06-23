@@ -30,6 +30,14 @@ Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 
 ---
 
+### Knowledge Distillation Series (Paper Summaries)
+
+- [SimCLR](paperSummaries/simCLRsummary.md)
+- [SimCLRv2](paperSummaries/simCLRv2Summay.md)
+- [Big Self-Supervised Models Advance Medical Image Classification](paperSummaries/medicalImageSelfSupervisedLearning.md)
+- [Contrastive Training for Improved Out-of-Distribution Detection](paperSummaries/contrastiveTrainingForOOD.md)
+- [Improving domain adaptation in de-identification of electronic health records through self-training](paperSummaries/healthDeidentificationSelfSupervisedSummary.md)
+
 ### Past Research
 
 [Rat whisker tracking - Univ. of Florida (2016)](/whiskerTracking.md)

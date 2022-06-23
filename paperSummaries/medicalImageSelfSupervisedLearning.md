@@ -28,7 +28,7 @@
 
 ### Method
 
-<img src="../paperSummaries/medicalImageSelfSupervisedLearning.PNG?raw=true"/>
+<img src="medicalImageSelfSupervisedLearning.png?raw=true"/>
 
 - Their approach comprises of three steps: 
     - Self-supervised pretraining on unlabeled ImageNet using SimCLR 

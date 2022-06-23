@@ -11,7 +11,7 @@
 
 ### Method
 
-<img src="paperSummaries/simclr1.PNG?raw=true"/>
+<img src="../paperSummaries/simclr1.PNG?raw=true"/>
 
 - They argue Composition of multiple data augmentation operations is crucial in defining the contrastive prediction tasks that yield effective representations.
 

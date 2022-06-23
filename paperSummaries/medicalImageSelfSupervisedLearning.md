@@ -43,14 +43,14 @@
 
 - Finally, we perform supervised fine-tuning on labeled medical images. 
 
+<img src="../paperSummaries/medicalImageSelfSupervisedLearning2.PNG?raw=true"/>
+
 - MICLe
     - It is common for medical images to have multiple images per condition typically from different viewpoints, lighting conditions, providing complementary information.
 
     - To get 2N representations in MICLe, they randomly sample a mini-batch of N bags of instances and define the contrastive prediction task on positive pairs retrieved from the bag of images instead of augmented views of the same image.
 
     - Each bag, X = {x1, x2, ..., xM} has images from a same patient (i.e., same pathology) captured from different views where M could vary for different bags. When there are two or more instances in a bag (M = |X| ≥ 2),  positive pairs are constructed by drawing two crops from two randomly selected images in the bag. In this case, the objective still takes the form of SimCLR, but images contributing to each positive pair are distinct.
-
-<img src="../paperSummaries/medicalImageSelfSupervisedLearning2.PNG?raw=true"/>
 
 - Following SimCLR, two fully connected layers are used to map the output of ResNets to a 128-dimensional embedding, which is used for contrastive learning.
 

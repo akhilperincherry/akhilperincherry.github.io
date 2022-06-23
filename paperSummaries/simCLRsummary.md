@@ -43,7 +43,7 @@
 
 - One composition of augmentations stands out: random cropping and random color distortion. The problem with using only random cropping as data augmentation is that most patches from an image share a similar color distribution and therefore, color histograms alone suffice to distinguish images. Neural nets could potentially exploit this shortcut to solve the predictive task. Therefore, it is critical to compose cropping with color distortion in order to learn generalizable features.
 
-<img src="paperSummaries/simclr2.PNG?raw=true"/>
+<img src="../paperSummaries/simclr2.PNG?raw=true"/>
 
 
 ### Evaluation

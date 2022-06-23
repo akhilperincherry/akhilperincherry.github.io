@@ -18,7 +18,7 @@
 - The first time the unlabeled data is used, it is used in a task-agnostic way, for learning general (visual) representations via unsupervised pretraining. The general representations are then adapted for a specific task via supervised fine-tuning. The second time the unlabeled data is used, it is used in a task-specific way, for further improving predictive performance and obtaining a compact model. For this, they train student networks on the unlabeled data with imputed labels from the fine-tuned teacher network.
 
 ### Method
-<img src="paperSummaries/simclrv2.PNG?raw=true"/>
+<img src="../paperSummaries/simclrv2.PNG?raw=true"/>
 
 - Pre-training:
     - Differences from SimCLR

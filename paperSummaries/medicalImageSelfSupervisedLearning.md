@@ -28,7 +28,7 @@
 
 ### Method
 
-<img src="paperSummaries/medicalImageSelfSupervisedLearning.PNG?raw=true"/>
+<img src="../paperSummaries/medicalImageSelfSupervisedLearning.PNG?raw=true"/>
 
 - Their approach comprises of three steps: 
     - Self-supervised pretraining on unlabeled ImageNet using SimCLR 
@@ -50,7 +50,7 @@
 
     - Each bag, X = {x1, x2, ..., xM} has images from a same patient (i.e., same pathology) captured from different views where M could vary for different bags. When there are two or more instances in a bag (M = |X| ≥ 2),  positive pairs are constructed by drawing two crops from two randomly selected images in the bag. In this case, the objective still takes the form of SimCLR, but images contributing to each positive pair are distinct.
 
-<img src="paperSummaries/medicalImageSelfSupervisedLearning2.PNG?raw=true"/>
+<img src="../paperSummaries/medicalImageSelfSupervisedLearning2.PNG?raw=true"/>
 
 - Following SimCLR, two fully connected layers are used to map the output of ResNets to a 128-dimensional embedding, which is used for contrastive learning.
 
@@ -63,7 +63,7 @@
         - Unlike the original set of proposed augmentation in SimCLR, they do not use the Gaussian blur, because they deduce that it makes it impossible to distinguish local texture variations and other areas of interest thereby changing the underlying disease interpretation the X-ray image.
 
         - Augmentations that lead to the best performance on the validation set for this task are random cropping, random color jittering (strength = 0.5), rotation (upto 45 degrees) and horizontal flipping.
-        
+
     - Finetuning 
         - For data augmentation during fine-tuning, they used random color augmentation, crops with resize, blurring, rotation, and flips for the images in both tasks.
 

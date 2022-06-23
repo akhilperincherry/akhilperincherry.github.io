@@ -24,7 +24,7 @@
 
 - In the retraining phase, they continue to train the best performing model from the first phase, and apply a similar training strategy (cross-entropy loss, stochastic gradient descent, and data augmentation). The difference is that each mini-batch contains half a batch of true labeled data and half a batch of pseudo-labeled data. In addition, they retrain the model for a total of fifty epochs and use the current model to update the pseudo-labels for every 5 epochs. They tune the same 3 hyperparameters in the same validation cohort, and the best performing model is chosen for testing.
 
-<img src="paperSummaries/deidentificationSelfSupervised.PNG?raw=true"/>
+<img src="../paperSummaries/deidentificationSelfSupervised.PNG?raw=true"/>
 
 ### Evaluation
 - Cross-domain experiments

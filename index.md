@@ -37,6 +37,12 @@ Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 - [Big Self-Supervised Models Advance Medical Image Classification](paperSummaries/medicalImageSelfSupervisedLearning.md)
 - [Contrastive Training for Improved Out-of-Distribution Detection](paperSummaries/contrastiveTrainingForOOD.md)
 - [Improving domain adaptation in de-identification of electronic health records through self-training](paperSummaries/healthDeidentificationSelfSupervisedSummary.md)
+- [Transformers](paperSummaries/attentionsummary.md)
+- [ViT](paperSummaries/vitPaperSummary.md)
+- [DALL-E](paperSummaries/dalleSummary.md)
+- [Training data-efficient image transformers & distillation through attention](paperSummaries/deitSummary.md)
+- [BERT Pre-Training of Image Transformers](paperSummaries/BEITSummary.md)
+- [Masked Autoencoders Are Scalable Vision Learners](paperSummaries/maeSummary.md)
 
 ### Past Research
 

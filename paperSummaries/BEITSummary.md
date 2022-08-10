@@ -31,7 +31,7 @@
 - Input image is split into image patches where each patch is tokenized into a visual token. Around 40% of the input patches are masked randomly and replaced with a learnable embedding. The masked patches are inputted into the transformer block and its final layer output is taken as the encoded representation. For each masked position, a softmax classifier is used to predict it's visual token.
 
 - The author's state that their MIM can be viewed as a VAE where the evidence lower bound (ELBO) of recovering original image from its masked version is:
-<img src="../paperSummaries/beit2.PNG?raw=true"/>
+<img src="../paperSummaries/beit2.png?raw=true"/>
 
 - The model is learned in 2 stages - 
 	- First, image tokenizer is obtained using dVAE by minimizing the reconstruction loss (reconstructing from latent code) using a uniform prior.

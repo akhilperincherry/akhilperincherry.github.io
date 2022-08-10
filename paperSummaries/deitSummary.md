@@ -10,11 +10,11 @@
 
 - They study different variants of distillations:
   - Soft distillation - KL distance between softmax of teacher and the softmax of the student is minimized.
-  <img src="../paperSummaries/deit1.PNG?raw=true"/>
+  <img src="../paperSummaries/deit1.png?raw=true"/>
 
   - Hard distillation - hard decision of the teacher is taken as the true label here.   
-  <img src="../paperSummaries/deit2.PNG?raw=true"/>
-  <img src="../paperSummaries/deit3.PNG?raw=true"/>
+  <img src="../paperSummaries/deit2.png?raw=true"/>
+  <img src="../paperSummaries/deit3.png?raw=true"/>
 
 ### Distillation token technique
 

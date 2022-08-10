@@ -8,17 +8,17 @@ In my current job, I primarily work on object detection, tracking and segmentati
 
 ### Patents
 
-* A Perincherry, C Cruise "[Domain Generation via Learned Partial Domain Translations](https://patents.google.com/patent/DE102021101850A1/en)" US Patent App. 16/777017 - Generative modeling to generate novel domain data.
+* A Perincherry, C Cruise "[Domain Generation via Learned Partial Domain Translations](https://patents.google.com/patent/DE102021101850A1/en)" US Patent 11321587 - Generative modeling to generate novel domain data.
 
-* A Perincherry, K Singh, N Nagraj Rao "[Vehicle Intersection Operation](https://patents.google.com/patent/US20210001844A1/en)" US Patent App. 20,210/001,844 - CNN+LSTM based model to predict vehicle right-of-way at intersections.
+* A Perincherry, K Singh, N Nagraj Rao "[Vehicle Intersection Operation](https://patents.google.com/patent/US20210001844A1/en)" US Patent 11420625 - CNN+LSTM based model to predict vehicle right-of-way at intersections.
 
 * N Nagraj Rao, A Perincherry "Sensor Domain Adaptation" US Patent App. 17/330692 - Generative modeling to translate legacy sensor data domain to newer domain.
 
 * A Perincherry, A Mordovanakis, S Suthar, A Chand "Neural Network Object Identification" US Patent App. 17/228765 - Radar camera sensor fusion to perform object 3D shape identification.
 
-* A Perincherry, I Patel, K Min "[RCCC to RGB Domain Translation with Deep Neural Networks](https://patents.google.com/patent/US11068749B1/en)" US Patent App. 16/799258 - Generative modeling to translate automotive sensor domain to common domains.
+* A Perincherry, I Patel, K Min "[RCCC to RGB Domain Translation with Deep Neural Networks](https://patents.google.com/patent/US11068749B1/en)" US Patent 11068749 - Generative modeling to translate automotive sensor domain to common domains.
 
-* N Jaipuria, G Sholingar, V Murali, R Bhasin, A Perincherry "[Vehicle Image Generation](https://patents.google.com/patent/US11042758B2/en)" US Patent App. 20,210/004,608 - Generative modeling to improve driving safety features via domain adaptation.
+* N Jaipuria, G Sholingar, V Murali, R Bhasin, A Perincherry "[Vehicle Image Generation](https://patents.google.com/patent/US11042758B2/en)" US Patent 11042758 - Generative modeling to improve driving safety features via domain adaptation.
 
 ---
 
@@ -37,7 +37,7 @@ Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 - [Big Self-Supervised Models Advance Medical Image Classification](paperSummaries/medicalImageSelfSupervisedLearning.md)
 - [Contrastive Training for Improved Out-of-Distribution Detection](paperSummaries/contrastiveTrainingForOOD.md)
 - [Improving domain adaptation in de-identification of electronic health records through self-training](paperSummaries/healthDeidentificationSelfSupervisedSummary.md)
-- [Transformers](paperSummaries/attentionsummary.md)
+- [Transformers](paperSummaries/attentionSummary.md)
 - [ViT](paperSummaries/vitPaperSummary.md)
 - [DALL-E](paperSummaries/dalleSummary.md)
 - [Training data-efficient image transformers & distillation through attention](paperSummaries/deitSummary.md)

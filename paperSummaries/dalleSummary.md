@@ -20,7 +20,7 @@
 
 - Gumbel softmax relaxation in the context of DALL-E is explained well [here](https://ml.berkeley.edu/blog/posts/dalle2/). Basically, the Gumbel softmax equation is reduced to a differentiable operation by changing argmax to softmax which outputs a grid of probabilities/weights. The resulting sampled latent vector will be a weighted sum of the codebook vector from the obtained weights rather than one specific codebook vector like in VQ-VAE.
   - They introduce a hyperparameter tau (temperature) which reduces to discrete sampling as it tends to zero and as it approaches 1, a deterministic distribution is obtained which reduces to the centroid of the codebook vectors. The temperature parameter is reduced throughout the training towards an approximate discrete sampling.
-  <img src="../paperSummaries/dalle1.PNG?raw=true"/>
+  <img src="../paperSummaries/dalle1.png?raw=true"/>
   (image source: https://ml.berkeley.edu/blog/posts/dalle2/)
 
 - The training is performed in two stages
@@ -34,7 +34,7 @@
 
 - Typically l1 and l2 reconstruction objectives are used in VAEs which correspond to Laplace and Gaussian distributions. However, they don't make sense while modeling pixels since pixel ranges between 0 to 1 while these distributions are non-zero beyond this range. The authors define a variant of Laplace distribtution that constraints the range between 0 to 1 by considering the pdf of the random variable obtained after applying sigmoid function to a Laplace random variable. They call this the logit-Laplace distribution. 
 
-<img src="../paperSummaries/dalle2.PNG?raw=true"/>
+<img src="../paperSummaries/dalle2.png?raw=true"/>
 
 ### References
 

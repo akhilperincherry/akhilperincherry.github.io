@@ -38,6 +38,6 @@
 
 ### References
 
-- https://ml.berkeley.edu/blog/posts/dalle2/
-- https://github.com/simonsanvil/DALL-E-Explained/blob/main/README.md
-- https://www.youtube.com/watch?v=jMqLTPcA9CQ
+- [https://ml.berkeley.edu/blog/posts/dalle2/](https://ml.berkeley.edu/blog/posts/dalle2/)
+- [https://github.com/simonsanvil/DALL-E-Explained/blob/main/README.md](https://github.com/simonsanvil/DALL-E-Explained/blob/main/README.md)
+- [https://www.youtube.com/watch?v=jMqLTPcA9CQ](https://www.youtube.com/watch?v=jMqLTPcA9CQ)

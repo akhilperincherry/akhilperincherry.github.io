@@ -77,5 +77,5 @@ An autoregressive (AR) based encoder-decoder model is proposed. The input sequen
 - Self-attention also leads to more interpretable models.
 
 ### References
-- http://jalammar.github.io/illustrated-transformer/
-- https://lilianweng.github.io/posts/2018-06-24-attention/
+- [http://jalammar.github.io/illustrated-transformer/](http://jalammar.github.io/illustrated-transformer/)
+- [https://lilianweng.github.io/posts/2018-06-24-attention/](https://lilianweng.github.io/posts/2018-06-24-attention/)

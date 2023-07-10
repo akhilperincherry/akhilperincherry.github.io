@@ -24,7 +24,9 @@ In my current job, I primarily work on object detection, tracking and segmentati
 
 ### Publications
 
-* Adarsh Appaiah (equal contribution), Akhil Perincherry (equal contribution), Ajinkya Sanjeev Keskar and Vijaya Krishna "[Spectrum Sensing in Cognitive Radio Based
+* Shan Wang, Yanhao Zhang, Ankit Vora, Akhil Perincherry, Hongdong Li, [Satellite image based cross-view localization for autonomous vehicle](https://ieeexplore.ieee.org/abstract/document/10161527), In Proc. IEEE Conference on Robotics and Automation, 2023
+
+* Adarsh Appaiah (equal contribution), Akhil Perincherry (equal contribution), Ajinkya Sanjeev Keskar (equal contribution) and Vijaya Krishna "[Spectrum Sensing in Cognitive Radio Based
 on Compressive Measurements](https://ieeexplore.ieee.org/abstract/document/6749450)". International conference on Emerging trends in Communication, Control, Signal Processing and
 Computing Applications (IEEE-C2SPCA) Bangalore, India 2013
 

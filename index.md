@@ -8,6 +8,10 @@ In my current job, I primarily work on object detection, tracking and segmentati
 
 ### Publications
 
+* Yujiao Shi, Hongdong Li, **Akhil Perincherry**, Ankit Vora, Weakly-supervised Camera Localization by Ground-to-satellite Image Registration, In Proc. European conference on computer vision (ECCV), 2024
+
+* Yanhao Zhang, Yujiao Shi, Shan Wang, Ankit Vora, **Akhil Perincherry**, Yongbo Chen, Hongdong Li, [Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration](https://arxiv.org/pdf/2404.09169), In Proc. IEEE Conference on Robotics and Automation (ICRA), 2024
+
 * Yujiao Shi, Fei Wu, **Akhil Perincherry**, Ankit Vora, Hongdong Li, [Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer](https://arxiv.org/pdf/2307.08015), In Proc. IEEE International Conference on Computer Vision (ICCV), 2023
 
 * Shan Wang, Yanhao Zhang, **Akhil Perincherry**, Ankit Vora, Hongdong Li, [View Consistent Purification for Accurate Cross-View Localization](https://arxiv.org/pdf/2308.08110), In Proc. IEEE International Conference on Computer Vision (ICCV), 2023
@@ -26,7 +30,7 @@ Computing Applications (IEEE-C2SPCA), 2013
 
 * **A Perincherry**, K Singh, N Nagraj Rao "[Vehicle Intersection Operation](https://patents.google.com/patent/US20210001844A1/en)" US Patent 11420625 - CNN+LSTM based model to predict vehicle right-of-way at intersections.
 
-* **A Perincherry**, A Chand "Generating Artificial Video with Changed Domain" US Patent App. 18/065672 - Guiding video generation using associated audio.
+* **A Perincherry**, A Chand "[Generating Artificial Video with Changed Domain](https://patents.google.com/patent/US20240202533A1/en)" US Patent App. 18/065672 - Guiding video generation using associated audio.
 
 * N Nagraj Rao, **A Perincherry** "[Sensor Domain Adaptation](https://patents.google.com/patent/US20220383040A1/en)" US Patent App. 17/330692 - Generative modeling to translate legacy sensor data domain to newer domain.
 
@@ -68,7 +72,7 @@ Computing Applications (IEEE-C2SPCA), 2013
 
 ---
 
-### Other Projects
+<!-- ### Other Projects
 
 - [Adaptive Speaker Recognition using Online Learning](/pdf/AdaptiveSpeakerRecognition_OnlineLearning_AkhilPerincherry.pdf)
 
@@ -92,9 +96,13 @@ Motor imagery tasks are tasks where a person imagines performing a task and the 
 
    A Majorized Multi-class kernel SVM was derived and designed from scratch, and compared with other ML algorithms such as Random Forests, Logistic Regression, Deep Neural Networks, Decision Trees and libSVM implementation.
 
----
+--- -->
 
 ## Service
+
+- Served as a reviewer for NeurIPS 2024.
+
+- Served as a reviewer for ACM SIGGRAPH 2024.
 
 - Served as a reviewer for ICCV 2023.
 

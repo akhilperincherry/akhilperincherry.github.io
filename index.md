@@ -2,13 +2,15 @@
 
 My research interests are in domain adaptation (via generative modeling, semi/self/un-supervised learning), multimodal learning and task-agnostic learning. In general, I am interested in solving problems that stem from a lack of annotated or domain-specific data and problems where testing data is distributionally different from training data.
 
-In my current job, I primarily work on object detection, tracking and segmentation using camera data and point cloud data. I graduated from the University of Florida in 2016. Before that, I worked at the Indian Institute of Science under [Prof. K R Ramakrishnan](https://iiscprofiles.irins.org/profile/3742) at the Computer Vision and Artificial Intelligence (CVAI) lab where I worked on touch-interface applications using a projector-camera based setup.
+In my current job, I primarily work on object detection, tracking and segmentation using camera data and point cloud data. I graduated from the University of Florida with my masters. Before that, I worked at the Indian Institute of Science under [Prof. K R Ramakrishnan](https://iiscprofiles.irins.org/profile/3742) at the Computer Vision and Artificial Intelligence (CVAI) lab where I worked on touch-interface applications using a projector-camera based setup.
 
 ---
 
 ### Publications
 
-* Yujiao Shi, Hongdong Li, **Akhil Perincherry**, Ankit Vora, Weakly-supervised Camera Localization by Ground-to-satellite Image Registration, In Proc. European conference on computer vision (ECCV), 2024
+* Tao Jun Lin, Wenqing Wang, Yujiao Shi, **Akhil Perincherry**, Ankit Vora, Hongdong Li, [Geometry-guided Cross-view Diffusion for One-to-many Cross-view Image Synthesis](https://arxiv.org/abs/2412.03315), International Conference on 3D Vision (3DV), 2025
+
+* Yujiao Shi, Hongdong Li, **Akhil Perincherry**, Ankit Vora, [Weakly-supervised Camera Localization by Ground-to-satellite Image Registration](https://link.springer.com/chapter/10.1007/978-3-031-72673-6_3), In Proc. European conference on computer vision (ECCV), 2024
 
 * Yanhao Zhang, Yujiao Shi, Shan Wang, Ankit Vora, **Akhil Perincherry**, Yongbo Chen, Hongdong Li, [Increasing SLAM Pose Accuracy by Ground-to-Satellite Image Registration](https://arxiv.org/pdf/2404.09169), In Proc. IEEE Conference on Robotics and Automation (ICRA), 2024
 
@@ -32,9 +34,13 @@ Computing Applications (IEEE-C2SPCA), 2013
 
 * **A Perincherry**, A Chand "[Generating Artificial Video with Changed Domain](https://patents.google.com/patent/US20240202533A1/en)" US Patent App. 18/065672 - Guiding video generation using associated audio.
 
-* N Nagraj Rao, **A Perincherry** "[Sensor Domain Adaptation](https://patents.google.com/patent/US20220383040A1/en)" US Patent App. 17/330692 - Generative modeling to translate legacy sensor data domain to newer domain.
+* Y Shi, H Li, A Vora, **A Perincherry** "[Camera Pose Relative to Overhead Image](https://patents.google.com/patent/US20240331187A1/en)" US Patent App. 18/190194
 
-* **A Perincherry**, A Mordovanakis, S Suthar, A Chand "[Neural Network Object Identification](https://patents.google.com/patent/US20220327320A1/en)" US Patent App. 17/228765 - Radar camera sensor fusion to perform object 3D shape identification.
+* S Wang, Y Zhang, **A Perincherry**, A Vora, H Li, Y Shi,  "[Camera Localization](https://patents.google.com/patent/US20240328816A1/en)" US Patent App. 18/191165
+
+* N Nagraj Rao, **A Perincherry** "[Sensor Domain Adaptation](https://patents.google.com/patent/US20220383040A1/en)" US Patent 12067087 - Generative modeling to translate legacy sensor data domain to newer domain.
+
+* **A Perincherry**, A Mordovanakis, S Suthar, A Chand "[Neural Network Object Identification](https://patents.google.com/patent/US20220327320A1/en)" US Patent 11823465 - Radar camera sensor fusion to perform object 3D shape identification.
 
 * **A Perincherry**, I Patel, K Min "[RCCC to RGB Domain Translation with Deep Neural Networks](https://patents.google.com/patent/US11068749B1/en)" US Patent 11068749 - Generative modeling to translate automotive sensor domain to common domains.
 
@@ -100,11 +106,17 @@ Motor imagery tasks are tasks where a person imagines performing a task and the 
 
 ## Service
 
+- Served as a reviewer for CVPR 2025.
+
+- Served as a reviewer for ICLR 2025.
+
+- Served as a reviewer for TMLR.
+
 - Served as a reviewer for NeurIPS 2024.
 
-- Served as a reviewer for ACM SIGGRAPH 2024.
+- Served as a reviewer for ACM SIGGRAPH Asia 2024.
 
-- Served as a reviewer for ICCV 2023.
+- Served as a reviewer for ICCV WiCV 2023.
 
 - MentorUF, University of Florida (2016) -
 Mentored a middle-school student for a year.
